@@ -2,7 +2,7 @@
   "name": "tw_test",
   "version": "1.0.0",
   "description": "test task for tw",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
